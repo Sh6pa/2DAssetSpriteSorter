@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - LevelGlobalLight
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground Soft
+  - Ground Hard
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background5
+    uniqueID: 3781020933
+    locked: 0
+  - name: Background4
+    uniqueID: 196812025
+    locked: 0
+  - name: Background3
+    uniqueID: 2934125531
+    locked: 0
+  - name: Background2
+    uniqueID: 1061068673
+    locked: 0
+  - name: Background1
+    uniqueID: 3517231155
+    locked: 0
+  - name: Background0
+    uniqueID: 2493390225
+    locked: 0
+  - name: Midground1
+    uniqueID: 51773313
+    locked: 0
+  - name: Midground0
+    uniqueID: 916683693
+    locked: 0
+  - name: Foreground
+    uniqueID: 396873627
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

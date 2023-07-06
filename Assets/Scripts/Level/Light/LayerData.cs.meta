@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: da32ebe35ca23234c8f7e6fe7136e41f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _layerdebugGO: {fileID: 7237901001628569111, guid: 25fefd70687be914ca01e6440433e58d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

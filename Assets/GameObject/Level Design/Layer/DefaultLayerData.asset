@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da32ebe35ca23234c8f7e6fe7136e41f, type: 3}
+  m_Name: DefaultLayerData
+  m_EditorClassIdentifier: 
+  _foregroundAssetColor: {r: 0.024875412, g: 0.4056604, b: 0.042874686, a: 1}
+  _sortingLayers:
+  - Name: Foreground
+    Index: 396873627
+    Offset: -7
+  - Name: Midground0
+    Index: 916683693
+    Offset: -3.75
+  - Name: Midground1
+    Index: 51773313
+    Offset: 0
+  - Name: Background0
+    Index: -1801577071
+    Offset: 3.1
+  - Name: Background1
+    Index: -777736141
+    Offset: 4.818398
+  - Name: Background2
+    Index: 1061068673
+    Offset: 7.310712
+  - Name: Background3
+    Index: -1360841765
+    Offset: 10.212815
+  - Name: Background4
+    Index: 196812025
+    Offset: 13.417805
+  - Name: Background5
+    Index: -513946363
+    Offset: 16.86867
+  _spriteSortingOrderPrecision: 100
+  _levelGlobalLightTag: LevelGlobalLight
+  _backgroundOffset: 3.1
+  _backgroundLayerLength: 3.73
+  _backgroundLayerLengthMultiplicator: 1.351
+  _layerDebugSize: 1
+  _layerdebugGO: {fileID: 7237901001628569111, guid: 25fefd70687be914ca01e6440433e58d,
+    type: 3}
+  _SpotLight: {fileID: 8516960796686667627, guid: 26262c6c362e8c342953db515f28313a,
+    type: 3}
+  _AnimatedSpotLight: {fileID: 1189663841199390404, guid: d1b8b4b31f8582e48a90fd7107793e4e,
+    type: 3}
+  _SpriteLight: {fileID: 1018264410776966986, guid: f8f3e83582d2f3541955b3542005b29a,
+    type: 3}
+  _FreeFormLight: {fileID: 1931458807025823200, guid: 4abfdc16199030f48b1213fd1367d3f5,
+    type: 3}
+  _InvertZAxis: 0
+  _LightOffsetInstantiation: 13
