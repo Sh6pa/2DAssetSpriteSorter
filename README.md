@@ -5,7 +5,7 @@ This project uses a tool that I have coded trying to reproduce the light tool/Sp
    [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0iKhPM-wrpQ/0.jpg)](https://www.youtube.com/watch?v=0iKhPM-wrpQ)
 
     For this project I only used the asset from a 2D demo platformer used during the Unite Copenhagen keynote. 
-    I however only used the sprites, I created a totally new scene without using any post precessing, volumes or shader.
+    I however only used the sprites, I created a totally new scene without using any post processing, volumes or shaders.
 This project only uses the light tool i created.
 Here is what the result looks like and how the tool can change an entire scene mood just by modifying SpriteRenderers and the global light.
 
