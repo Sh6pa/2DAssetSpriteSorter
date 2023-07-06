@@ -4,8 +4,6 @@ This project uses a tool that I have coded trying to reproduce the light tool/Sp
 
    [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0iKhPM-wrpQ/0.jpg)](https://www.youtube.com/watch?v=0iKhPM-wrpQ)
 
-**Sweet Nightmare/Michael TPS** <https://yemabwoy.itch.io/sweet-nightmare>
-
     For this project I only used the asset from a 2D demo platformer used during the Unite Copenhagen keynote. 
     I however only used the sprites, I created a totally new scene without using any post processing, volumes or shaders.
     
